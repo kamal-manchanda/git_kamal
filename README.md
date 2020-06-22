@@ -13,9 +13,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 # Project Motivation
 This project was done as part of Udacity Data Science Nanodegree. For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-Which type of developers does Stack Overflow have?
-How satisfied are they with Stack Overflow?
-What drives Stack Overflow satisfaction?
+1. Which type of developers does Stack Overflow have?
+2. How satisfied are they with Stack Overflow?
+3. What drives Stack Overflow satisfaction?
 
 # File Descriptions
 There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
