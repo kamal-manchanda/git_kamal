@@ -13,8 +13,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 # Project Motivation
 This project was done as part of Udacity Data Science Nanodegree. For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-Which type of developers does Stack Overflow have? 
-How satisfied are they with Stack Overflow? 
+Which type of developers does Stack Overflow have?
+How satisfied are they with Stack Overflow?
 What drives Stack Overflow satisfaction?
 
 # File Descriptions
